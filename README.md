@@ -1,5 +1,5 @@
 <h1 align="center">
-     🐙 <a href="#" alt=""> React.js Test Signin</a>
+     🐙 <a href="#" alt=""> React.js Test Polis Web Manager</a>
 </h1>
 
 <h3 align="center">
@@ -7,7 +7,7 @@
 </h3>
 
 <h4 align="center">
-	🚧 Finished 🚀🚧
+	🚧 Development 🚀🚧
 </h4>
 
 ### Prerequisites
@@ -62,10 +62,10 @@ This application is a demonstration how to implement a signin in react.js using 
 ```bash
 
 # Clone this repository
-$ git clone https://github.com/LucasJunio/signin-react
+$ git clone https://github.com/LucasJunio/polis-web-manager
 
 # Acces the project folder in your terminal/cmd
-$ cd signin-react
+$ cd polis-web-manager
 
 # Build the image/container docker with Hot reloading / live reloading in development
 $ docker-compose up -d --build

@@ -1,3 +1,3 @@
 export const DashboardContainer = () => {
-  return <>Dashboard</>;
+  return <>Hello World</>;
 };
